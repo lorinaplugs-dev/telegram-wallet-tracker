@@ -41,7 +41,7 @@ If you like the project you can support me with the link below
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/wallet-tracker.git
+git clone https://github.com/@LorinnwalletTrackerbotwallet-tracker.git
 ```
 
 
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ```
 [Telegram]
-token = <your-telegram-bot-token>
+token = <8389201627:AAE7EJhf3b-ual3vwZJXeYMPyo1FjgG_svc>
 
 [WAX]
 wax_track = False
